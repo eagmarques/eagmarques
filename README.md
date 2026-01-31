@@ -63,19 +63,11 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Overview
 
-<div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=eagmarques&show_icons=true&hide_title=true&theme=transparent&hide_border=true&cache_seconds=1800"
-    height="150"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=eagmarques&layout=compact&theme=transparent&hide_border=true&cache_seconds=1800"
-    height="150"
-  />
-</div>
-
+![Repos](https://img.shields.io/badge/Public%20Repos-18-blue)
+![Followers](https://img.shields.io/github/followers/eagmarques?label=Followers&style=flat)
+![Stars](https://img.shields.io/github/stars/eagmarques?label=Stars&style=flat)
 
 ---
 
