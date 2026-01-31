@@ -66,11 +66,16 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="150"
-       src="https://github-readme-stats.vercel.app/api?username=eagmarques&show_icons=true&hide_title=true&theme=transparent&hide_border=true" />
-  <img height="150"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=eagmarques&layout=compact&theme=transparent&hide_border=true" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=eagmarques&show_icons=true&hide_title=true&theme=transparent&hide_border=true&cache_seconds=1800"
+    height="150"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=eagmarques&layout=compact&theme=transparent&hide_border=true&cache_seconds=1800"
+    height="150"
+  />
 </div>
+
 
 ---
 
