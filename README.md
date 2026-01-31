@@ -8,14 +8,6 @@
 
 </div>
 
----
-
-<div align="center">
-  <img src="assets/banner.png" width="100%" />
-</div>
-
----
-
 ## 🚀 About Me
 
 - 🎯 Target role: **Data Analyst / Analytics Engineer**
@@ -67,7 +59,7 @@
 | **SQL Performance & Cost Optimization** | Query redesign to reduce execution time and cost by ~50% | SQL |
 | **Data Apps Portfolio** | Interactive analytics apps for data exploration and reporting | Python, Streamlit |
 
-➡️ **View all repositories:** https://github.com/SEU_USERNAME?tab=repositories
+➡️ **View all repositories:** https://github.com/eagmarques?tab=repositories
 
 ---
 
